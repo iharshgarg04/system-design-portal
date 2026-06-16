@@ -1,10 +1,10 @@
 # Blueprint — System Design Mastery Portal
 
-A research-curated, interview-ready system design learning hub for engineers targeting senior roles at FAANG / top product companies. Single HTML file, zero dependencies, all progress saved to your browser's `localStorage`.
+A research-curated, interview-ready learning hub covering **both halves of the interview** — high-level system design (**HLD**) *and* low-level / machine-coding design (**LLD**) — for engineers targeting product companies. Single HTML file, zero dependencies, all progress saved to your browser's `localStorage`.
 
 **▶ Live:** https://iharshgarg04.github.io/system-design-portal/
 
-![status](https://img.shields.io/badge/build-single--file-e2a45a) ![deps](https://img.shields.io/badge/dependencies-0-62c98e) ![items](https://img.shields.io/badge/trackable%20items-289-7cd0e6)
+![status](https://img.shields.io/badge/build-single--file-e2a45a) ![deps](https://img.shields.io/badge/dependencies-0-62c98e) ![items](https://img.shields.io/badge/trackable%20items-394-7cd0e6)
 
 ---
 
@@ -12,14 +12,15 @@ A research-curated, interview-ready system design learning hub for engineers tar
 
 | Section | Contents |
 |---|---|
-| **The Curriculum** | 12 modules, fundamentals → staff-level depth. Each has *why it matters*, prerequisites, study time, checkable concepts, best resources, practice problems, and the interviewer probes you must survive. |
+| **HLD Curriculum** | 12 modules in **4 progressive stages** (Foundations → Core scaling toolkit → Consistency & correctness → Specialized/production), with a "Start Here" path guide. Each module has *why it matters*, prerequisites, study time, checkable concepts, best resources, practice problems, and the interviewer probes you must survive. |
+| **LLD Curriculum** | 8 modules (OOP → SOLID → design patterns → concurrency → the machine-coding method), a **bank of 21 machine-coding problems** (Parking Lot, Splitwise, BookMyShow, Elevator…) with the right object model + patterns for each, a 7-phase prep path, and 19 verified LLD resources. Built for the timed machine-coding round product companies run. |
 | **Case-Study Library** | 70 production deep-dives (Discord, Figma, Stripe, Netflix, Uber, AWS, Google…) across 15 domains — each linked to its primary engineering-blog or paper source with problem → architecture → trade-offs → real scale numbers → the interview question it informs. |
 | **Resource Library** | ~60 books, courses, channels, repos, papers, and hands-on labs, tagged free/paid and foundational/advanced, with an opinionated take on what each is uniquely good for. |
 | **Hidden Gems & Verdicts** | Community-endorsed resources beyond the obvious defaults, plus honest consensus/dissent on the famous stuff and the habits that actually move the needle. |
-| **Question Bank** | 35 frequently-asked questions in 3 tiers, tagged with concepts tested, expected trade-offs, common follow-ups, and links to worked solutions. |
+| **Question Bank** | 35 frequently-asked HLD questions in 3 tiers, tagged with concepts tested, expected trade-offs, common follow-ups, and links to worked solutions. |
 | **How You're Judged** | The six scoring axes (senior signal vs failure mode), the bar by level (mid / senior / staff), and company-by-company interview patterns. |
 | **Mocks & Practice** | Mock-interview platforms, practice strategies, and communities. |
-| **12-Week Plan** | A three-phase study plan balancing theory, architecture reading, hands-on building, and timed mocks. |
+| **12-Week Plan** | A **dual-track** week-by-week schedule running HLD and LLD in parallel, with the reps and mocks to do each week. |
 
 ## Features
 
