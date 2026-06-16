@@ -4,7 +4,7 @@ A research-curated, interview-ready learning hub covering **both halves of the i
 
 **▶ Live:** https://iharshgarg04.github.io/system-design-portal/
 
-![status](https://img.shields.io/badge/build-single--file-e2a45a) ![deps](https://img.shields.io/badge/dependencies-0-62c98e) ![items](https://img.shields.io/badge/trackable%20items-394-7cd0e6)
+![status](https://img.shields.io/badge/build-single--file-e2a45a) ![deps](https://img.shields.io/badge/dependencies-0-62c98e) ![items](https://img.shields.io/badge/trackable%20items-398-7cd0e6)
 
 ---
 
@@ -20,7 +20,7 @@ A research-curated, interview-ready learning hub covering **both halves of the i
 | **Question Bank** | 35 frequently-asked HLD questions in 3 tiers, tagged with concepts tested, expected trade-offs, common follow-ups, and links to worked solutions. |
 | **How You're Judged** | The six scoring axes (senior signal vs failure mode), the bar by level (mid / senior / staff), and company-by-company interview patterns. |
 | **Mocks & Practice** | Mock-interview platforms, practice strategies, and communities. |
-| **12-Week Plan** | A **dual-track** week-by-week schedule running HLD and LLD in parallel, with the reps and mocks to do each week. |
+| **16-Week Plan** | A **dual-track**, job-friendly week-by-week schedule (~8 hrs/week): **weekdays = learn** (30–45 min chunks), **weekends = timed reps** (2–3 hr blocks). HLD and LLD run in parallel; DSA stays warm. |
 
 ## Features
 
